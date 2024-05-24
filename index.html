@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="styles.css">
+    <title>Pokemon store</title>
+</head>
+<body>
+    <header>
+        <div class="header-container">
+            <img src="assets/m2i8d3i8A0i8N4K9-removebg-preview.png" alt="Pokemon Logo" class="logo">
+            <h2>Pokemon</h2>
+        </div>
+    </header>
+
+    
+    <main>
+        <section class="main-container">
+            <h1>Mis Productos</h1>
+            <div data-product class="products-container"></div>
+            
+
+        </section>
+
+
+
+
+
+        <section class="formulario">
+            <div class="form">
+                <h2>Agregar <br> productos</h2>
+                <form class="form-container" data-form>
+                    <input type="text" data-name placeholder="Nombre">
+                    <input type="text" data-price placeholder="Precio">
+                    <input type="text" data-image placeholder="Imagen URL">
+                    <div class="contenedor-botones">
+                        <button type="submit">Enviar</button>
+                        <button type="reset" data-clear>Limpiar</button>
+                    </div>
+                </form>
+            </div>
+        </section>
+    </main>
+    <footer>
+        <div class="footer"> 
+            <p>Desarrollado por Viviana Rios</p>
+            <p> Alura / One 2024</p>
+        </div>
+    </footer>
+    <script type="module" src="js/controllers/main.js"></script>
+</body>
+</html>

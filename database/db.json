@@ -1,0 +1,64 @@
+{
+  "products": [
+    {
+      "id": "1",
+      "name": "Pikachu",
+      "price": "100.00",
+      "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/025.png"
+    },
+    {
+      "id": "2",
+      "name": "Charmander",
+      "price": "129.00",
+      "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/004.png"
+    },
+    {
+      "id": "3",
+      "name": "Bulbasaur",
+      "price": "300.00",
+      "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/001.png"
+    },
+    {
+      "id": "4",
+      "name": "Squirtle",
+      "price": "240.00",
+      "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/007.png"
+    },
+    {
+      "id": "5",
+      "name": "Jigglypuff",
+      "price": "139.00",
+      "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/039.png"
+    },
+    {
+      "id": "6",
+      "name": "Meowth",
+      "price": "400.00",
+      "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/052.png"
+    },
+    {
+      "id": "7",
+      "name": "Psyduck",
+      "price": "300.00",
+      "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/054.png"
+    },
+    {
+      "id": "8",
+      "name": "Snorlax",
+      "price": "200.00",
+      "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/143.png"
+    },
+    {
+      "id": "f24a",
+      "name": "KTEs",
+      "price": "64",
+      "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/075.png"
+    },
+    {
+      "id": "1a92",
+      "name": "lasj",
+      "price": "56",
+      "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/080.png"
+    }
+  ]
+}
